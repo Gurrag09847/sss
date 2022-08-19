@@ -258,7 +258,7 @@
     "recipe": {
       "label": "Kladdkaka",
       "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_221660/cf_259/kladdig_kladdkaka.jpg",
-      "underrubrik1": "",
+      "underubrik1": "",
       "underrubrik1Text": [
         "Smör till formen",
         "Ströbröd till formen",
@@ -286,6 +286,23 @@
         "Grädda mitt i ugnen i ca 10-15 minuter (öka eller minska tiden vid behov beroende på hur kladdig du vill ha den).",
         "Ta ut kladdkakan och låt svalna",
         "Sikta florsocker över om så önskas. Servera med vispad grädde och färska bär."
+      ]
+    }
+  },
+  {
+    "recipe": {
+      "label": "Pajdeg, knäck",
+      "image": "",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "125g margarin",
+        "1½ dl socker",
+        "1tsk bakpulver"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": "",
+      "recept": [
+        "Smält margarinet och rör ner socker, mjöl och bakpulver."
       ]
     }
   }
